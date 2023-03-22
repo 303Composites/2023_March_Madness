@@ -1,6 +1,6 @@
 # March-Madness-ML
 
-Applying machine learning to March Madness: Credit to this repo was initially adapted from [here](https://github.com/adeshpande3/March-Madness-2017) and my associated [blog post](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness) without this initial start this project would have taken ages. 
+Applying machine learning to March Madness: Credit to this repo was initially adapted from [here](https://github.com/adeshpande3/March-Madness-2017) and the orginal [blog post](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness) without this initial start this project would have taken ages so thank you adeshpande3. 
 This has been updated to include additional models and stats categories as well as additional data for the 2023 season. 
 
 ## Overview
